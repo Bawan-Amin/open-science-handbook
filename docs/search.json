@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open Science Handbook",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Why does this document exist? –&gt; Open Science movement and Strategic plan UU Epistemic diversity –&gt; OS is like a buffet. This document is to support you by giving an overview of what to do when, and most importantly how. Also, tailored towards our faculty. Give an overview of the document: every page starts with definition and benefit."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "1  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "preregistration.html",
+    "href": "preregistration.html",
+    "title": "Preregistration",
+    "section": "",
+    "text": "Preregistration is the practice of documenting your research plan at the beginning of your study and storing that plan in a read-only public repository such as OSF Registries. Used primarily as a tool in earlier years to counteract biases and to register hypotheses prior to data collection, preregistrations now come in diverse shapes and forms to accommodate the needs of epistemic diversity. OSF provides many different templates, these include among others: • Standard templates (for confirmatory or exploratory use) • Systematic review templates • Template for qualitative research\n\n\n\nPreregistration Image\n\n\nThe questions asked in these templates help to guide you through all the aspects that are worth considering in your study, and are thus tailored towards the nature of your study. These can therefore be helpful, especially if you are new to preregistrations. But you can always deviate from these and upload your own file, especially if you feel that the templates are not entirely suited for your goals."
+  }
+]
