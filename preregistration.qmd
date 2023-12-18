@@ -5,6 +5,8 @@ Preregistration is the practice of documenting your research plan at the beginni
 •	Systematic review templates 
 •	Template for qualitative research
 
+dummy line
+
 ![Preregistration Image](images/preregjpeg.jpg)
 
 The questions asked in these templates help to guide you through all the aspects that are worth considering in your study, and are thus tailored towards the nature of your study. These can therefore be helpful, especially if you are new to preregistrations. But you can always deviate from these and upload your own file, especially if you feel that the templates are not entirely suited for your goals. 
